@@ -1,0 +1,6 @@
+{
+  "name": "국민취업지원제도 맞춤 상담 전략 수립기",
+  "description": "국민취업지원제도 내담자의 이력 데이터를 분석하여 최적의 상담 전략과 회기별 맞춤형 컨설팅 가이드를 생성하는 취업 컨설턴트 전용 솔루션입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
